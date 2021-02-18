@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/sys_btm"
+        android:id="@+id/navigation_settings"
+        android:title="@string/title_setting"/>
+    <item
+        android:icon="@drawable/padlock"
+        android:id="@+id/navigation_lock"
+        android:title="@string/title_lock"/>
+    <item
+        android:icon="@drawable/theme_btm"
+        android:id="@+id/navigation_theme"
+        android:title="@string/title_themes"/>
+</menu>
